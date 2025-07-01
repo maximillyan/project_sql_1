@@ -1,0 +1,24 @@
+[ds.md_currency_d] ❌ Строка 2: {'currency_rk': 4586704, 'data_actual_date': datetime.date(2011, 6, 9), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 0.0, 'code_iso_char': 'NON'}
+   Причина: currency_code некорректен: 0.0
+[ds.md_currency_d] ❌ Строка 9: {'currency_rk': 56, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 12.0, 'code_iso_char': 'DZD'}
+   Причина: currency_code некорректен: 12.0
+[ds.md_currency_d] ❌ Строка 13: {'currency_rk': 60, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 48.0, 'code_iso_char': 'BHD'}
+   Причина: currency_code некорректен: 48.0
+[ds.md_currency_d] ❌ Строка 26: {'currency_rk': 26, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': nan, 'code_iso_char': None}
+   Причина: currency_code некорректен: nan, code_iso_char=None
+[ds.md_currency_d] ❌ Строка 33: {'currency_rk': 33, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 999.0, 'code_iso_char': '\x98'}
+   Причина: code_iso_char некорректная: '' → '' (длина 0)
+[ds.md_currency_d] ❌ Строка 39: {'currency_rk': 39, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 36.0, 'code_iso_char': 'AUD'}
+   Причина: currency_code некорректен: 36.0
+[ds.md_currency_d] ❌ Строка 46: {'currency_rk': 46, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 44.0, 'code_iso_char': 'BHS'}
+   Причина: currency_code некорректен: 44.0
+[ds.md_currency_d] ❌ Строка 48: {'currency_rk': 48, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 84.0, 'code_iso_char': 'BZD'}
+   Причина: currency_code некорректен: 84.0
+[ds.md_currency_d] ❌ Строка 51: {'currency_rk': 529511969, 'data_actual_date': datetime.date(2017, 12, 12), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 51.0, 'code_iso_char': 'AMD'}
+   Причина: currency_code некорректен: 51.0
+[ds.md_currency_d] ❌ Строка 26: {'currency_rk': 26, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': nan, 'code_iso_char': None}
+   Причина: currency_code некорректен: nan, code_iso_char=None
+[ds.md_currency_d] ❌ Строка 33: {'currency_rk': 33, 'data_actual_date': datetime.date(2017, 11, 5), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': 999.0, 'code_iso_char': '\x98'}
+   Причина: code_iso_char некорректная: '' → '' (длина 0)
+[ds.md_currency_d] ❌ Строка 25: {'currency_rk': 26, 'data_actual_date': datetime.date(2017, 5, 11), 'data_actual_end_date': datetime.date(2050, 12, 31), 'currency_code': nan, 'code_iso_char': None}
+   Причина: currency_code некорректен: nan, code_iso_char=None
